@@ -1,0 +1,5 @@
+TODO
+1. Add openconnectID using google.com
+2. Use cookies for frontends
+3. Check token expiry time
+4. Add permission claims
